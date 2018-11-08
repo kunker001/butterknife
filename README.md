@@ -1,4 +1,8 @@
+注解式绑定view    
+@BindView
+
 Butter Knife
+
 ============
 
 ![Logo](website/static/logo.png)
